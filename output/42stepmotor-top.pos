@@ -1,0 +1,39 @@
+### Footprint positions - created on Sun Feb  4 10:39:23 2024 ###
+### Printed by KiCad version 7.0.10
+## Unit = mm, Angle = deg.
+## Side : top
+# Ref     Val                          Package                                         PosX       PosY       Rot  Side
+ANT_C1    NC                           C_0402_1005Metric                            11.6000     0.5300  180.0000  top
+ANT_L1    NC                           L_0402_1005Metric                            11.2000     2.0300   90.0000  top
+C1        0.1uf                        C_0603_1608Metric                             2.2250    20.8750  180.0000  top
+C2        UNKNOWN                      C_0603_1608Metric                             2.2250    24.0750    0.0000  top
+C3        0.1uf                        C_0402_1005Metric                             5.2000     6.9000   90.0000  top
+C4        22uf                         C_0805_2012Metric                             5.8250    20.1250   90.0000  top
+C5        22uf                         C_0805_2012Metric                            -1.6750    17.9750  180.0000  top
+C6        1uf                          C_0402_1005Metric                            15.6000     3.5000    0.0000  top
+C7        0.1uf                        C_0402_1005Metric                             7.7000    12.8000  180.0000  top
+C8        22uf                         C_0805_2012Metric                             5.8250    16.6250  -90.0000  top
+C9        10uf                         C_0603_1608Metric                            21.1485    31.9015    0.0000  top
+C11       22nf                         C_0603_1608Metric                            25.6500    28.9000  -90.0000  top
+C12       0.1uf                        C_0603_1608Metric                            25.6500    25.7500  -90.0000  top
+C13       0.1uf                        C_0603_1608Metric                            18.0485    31.9015  180.0000  top
+CANT_C2   NC                           C_0402_1005Metric                            11.6900     3.5300  180.0000  top
+D2        LED                          LED_0603_1608Metric                           2.2250    25.6750    0.0000  top
+E1        Antenna                      CA-03                                        10.6500    -2.3000  180.0000  top
+E2        Conn_01x04_Socket            JST_XH_S4B-XH-A-1_1x04_P2.50mm_Horizontal    27.4000    11.8000   90.0000  top
+J1        Conn_01x02_Socket            JST_XH_S2B-XH-A-1_1x02_P2.50mm_Horizontal    11.1500    27.2500  180.0000  top
+J2        USB_C_Receptacle_USB2.0_16P  USB_C_Receptacle_HRO_TYPE-C-31-M-12          -1.6600     9.4000  -90.0000  top
+L1        4.7uh                        L_Cenker_CKCS4030                             2.4250    17.4750  -90.0000  top
+R1        31.25k                       R_0603_1608Metric                             2.2250    22.4750    0.0000  top
+R2        10k                          R_0603_1608Metric                            -1.4500    25.6750    0.0000  top
+R3        100k                         R_0603_1608Metric                            -1.4750    19.7750    0.0000  top
+R4        10k                          R_0402_1005Metric                            13.7000     3.5000    0.0000  top
+R6        1k                           R_0603_1608Metric                            10.9000    13.7000  180.0000  top
+R9        100k                         R_0603_1608Metric                            15.9485    27.5015   90.0000  top
+R11       10k                          R_0603_1608Metric                             4.6250    24.8750   90.0000  top
+SW1       SW_Push                      bt-342                                       15.0000    -1.1000   90.0000  top
+U1        ch343p                       QFN-16-1EP_3x3mm_P0.5mm_EP1.45x1.45mm         6.4625    10.0500  -90.0000  top
+U3        ESP32-PICO-D4                QFN-48-1EP_7x7mm_P0.5mm_EP5.3x5.3mm          13.4400     8.6800   90.0000  top
+U4        ~                            SOT-23-6                                     -1.2750    22.7250  -90.0000  top
+U5        TMC2209-LA                   QFN28_5X5_TRI                                20.6508    27.9992  180.0000  top
+## End
